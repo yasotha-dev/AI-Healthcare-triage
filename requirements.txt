@@ -1,6 +1,7 @@
 pip requirements
+pip requirements
 streamlit
 opencv-python-headless
 numpy
 scipy
-pyrantic
+pydantic
